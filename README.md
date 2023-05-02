@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mouniaeng
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning JS and C.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me mounia.engelbos@hotmail.com
