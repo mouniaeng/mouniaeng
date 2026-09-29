@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Mounia.
+- Hi, I’m Mounia 👋
+- From 🇧🇪.
+- Currently studying cybersecurity at interface3 ---> looking for an internship 🤓💻
 
 
 
